@@ -5,9 +5,9 @@ VisualStudioVersion = 17.0.31903.59
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Ask name", "Ask name.csproj", "{A51F5DEE-6235-450D-A5E1-829D2EAD8366}"
 EndProject
-Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Guess the number game", "..\Guess the number  game\Guess the number game.csproj", "{A5BD4F70-366D-4F32-9F89-FEC04D26DB95}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Guess the number game", "Guess the number  game\Guess the number game.csproj", "{A5BD4F70-366D-4F32-9F89-FEC04D26DB95}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Lessons practies 1", "..\Lessons practies 1\Lessons practies 1.csproj", "{8B443702-FDBB-4953-9203-776EA7D0F798}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Lessons practies 1", "Lessons practies 1\Lessons practies 1.csproj", "{8B443702-FDBB-4953-9203-776EA7D0F798}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
