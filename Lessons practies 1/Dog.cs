@@ -13,10 +13,6 @@ namespace Lessons_practies_1
         public double Age { get; set; }
         public string Sex { get; set; }
 
-        public Dog()
-        {
-        }
-
         public void DogInfo()
         {
             Console.WriteLine($"Dog breed {Breed}");

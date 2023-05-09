@@ -10,7 +10,11 @@ namespace Lessons_practies_1
     {
         public int Number { get; }
         public int BranchNumber { get; }
-        public string  IBAN { get; }
+        public string IBAN { get; }
+
+        public BankAccount()
+        {
+        }
 
         public BankAccount(int number, int branchNumber, string iban)
         {

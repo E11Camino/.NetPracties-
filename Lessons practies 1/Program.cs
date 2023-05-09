@@ -8,7 +8,7 @@ Console.ReadKey();
 
 Console.WriteLine();
 
-Dog newDog = new Dog
+Dog newDog = new Dog()
 {
     Age =  1.5,
     Color = "White",
