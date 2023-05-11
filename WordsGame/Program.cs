@@ -32,12 +32,12 @@
         {
             string s = "";
             DateTime start = default;
+            start = DateTime.Now;
 
             while (s != word)
             {
                 Console.Clear();
                 Console.WriteLine($"Type \" {word} \" as fast as you can and press Enter after each word:\r\n\r\n");
-                start = DateTime.Now;
                 s = Console.ReadLine();
             }
             return (DateTime.Now - start).TotalSeconds;
